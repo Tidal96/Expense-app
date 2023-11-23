@@ -1,0 +1,1 @@
+export const DEFAULT_FILTERED_YEAR = "2020";
